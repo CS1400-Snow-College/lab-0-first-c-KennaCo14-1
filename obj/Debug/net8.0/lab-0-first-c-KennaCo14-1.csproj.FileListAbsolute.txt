@@ -1,0 +1,15 @@
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\bin\Debug\net8.0\lab-0-first-c-KennaCo14-1.exe
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\bin\Debug\net8.0\lab-0-first-c-KennaCo14-1.deps.json
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\bin\Debug\net8.0\lab-0-first-c-KennaCo14-1.runtimeconfig.json
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\bin\Debug\net8.0\lab-0-first-c-KennaCo14-1.dll
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\bin\Debug\net8.0\lab-0-first-c-KennaCo14-1.pdb
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.AssemblyInfoInputs.cache
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.AssemblyInfo.cs
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.csproj.CoreCompileInputs.cache
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.sourcelink.json
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.dll
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\refint\lab-0-first-c-KennaCo14-1.dll
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.pdb
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\lab-0-first-c-KennaCo14-1.genruntimeconfig.cache
+C:\Users\kenna\my-code-dir\lab-0-first-c-KennaCo14-1\obj\Debug\net8.0\ref\lab-0-first-c-KennaCo14-1.dll
